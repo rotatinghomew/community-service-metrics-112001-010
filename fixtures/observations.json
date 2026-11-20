@@ -1,0 +1,52 @@
+[
+  {
+    "grid": "G1",
+    "month": "2026-01",
+    "category": "repair",
+    "eligible": 48,
+    "received": 21,
+    "timely": 17,
+    "matured": 19,
+    "revision": "1"
+  },
+  {
+    "grid": "G1",
+    "month": "2026-02",
+    "category": "repair",
+    "eligible": 50,
+    "received": 7,
+    "timely": 6,
+    "matured": 4,
+    "revision": "1"
+  },
+  {
+    "grid": "G2",
+    "month": "2026-01",
+    "category": "repair",
+    "eligible": 12,
+    "received": 8,
+    "timely": 4,
+    "matured": 7,
+    "revision": "1"
+  },
+  {
+    "grid": "G2",
+    "month": "2026-02",
+    "category": "repair",
+    "eligible": 13,
+    "received": 10,
+    "timely": 5,
+    "matured": 10,
+    "revision": "2"
+  },
+  {
+    "grid": "G3",
+    "month": "2026-02",
+    "category": "support",
+    "eligible": "",
+    "received": 0,
+    "timely": 0,
+    "matured": 0,
+    "revision": "1"
+  }
+]

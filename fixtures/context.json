@@ -1,0 +1,20 @@
+[
+  {
+    "grid": "G1",
+    "month": "2026-02",
+    "kind": "holiday",
+    "value": "long_weekend"
+  },
+  {
+    "grid": "G2",
+    "month": "2026-02",
+    "kind": "classification_change",
+    "value": "repair_v2"
+  },
+  {
+    "grid": "G3",
+    "month": "2026-02",
+    "kind": "population_revision",
+    "value": "awaiting_source"
+  }
+]

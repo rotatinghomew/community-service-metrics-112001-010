@@ -1,0 +1,16 @@
+[
+  {
+    "id": "D-1",
+    "signal": "relative_change",
+    "version": "1",
+    "minimum_matured": 8,
+    "lookback_months": 3
+  },
+  {
+    "id": "D-2",
+    "signal": "relative_change",
+    "version": "2",
+    "minimum_matured": 12,
+    "lookback_months": 6
+  }
+]
